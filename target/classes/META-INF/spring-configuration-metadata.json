@@ -1,0 +1,131 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "CLOUDINARY_URL",
+      "type": "java.lang.String",
+      "description": "A description for 'CLOUDINARY_URL'"
+    },
+    {
+      "name": "app.env",
+      "type": "java.lang.String",
+      "description": "A description for 'app.env'"
+    },
+    {
+      "name": "cloudinary.api_key",
+      "type": "java.lang.String",
+      "description": "A description for 'cloudinary.api_key'"
+    },
+    {
+      "name": "cloudinary.api_secret",
+      "type": "java.lang.String",
+      "description": "A description for 'cloudinary.api_secret'"
+    },
+    {
+      "name": "cloudinary.cloud_name",
+      "type": "java.lang.String",
+      "description": "A description for 'cloudinary.cloud_name'"
+    },
+    {
+      "name": "spring.data.mongodb.always-use-m-beans",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.always-use-m-beans'"
+    },
+    {
+      "name": "spring.data.mongodb.connect-timeout",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.connect-timeout'"
+    },
+    {
+      "name": "spring.data.mongodb.heartbeat-connect-timeout",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.heartbeat-connect-timeout'"
+    },
+    {
+      "name": "spring.data.mongodb.heartbeat-frequency",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.heartbeat-frequency'"
+    },
+    {
+      "name": "spring.data.mongodb.heartbeat-socket-timeout",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.heartbeat-socket-timeout'"
+    },
+    {
+      "name": "spring.data.mongodb.local-threshold",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.local-threshold'"
+    },
+    {
+      "name": "spring.data.mongodb.max-connection-idel-time",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.max-connection-idel-time'"
+    },
+    {
+      "name": "spring.data.mongodb.max-connection-life-time",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.max-connection-life-time'"
+    },
+    {
+      "name": "spring.data.mongodb.max-connections-per-host",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.max-connections-per-host'"
+    },
+    {
+      "name": "spring.data.mongodb.max-wait-time",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.max-wait-time'"
+    },
+    {
+      "name": "spring.data.mongodb.min-connections-per-host",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.min-connections-per-host'"
+    },
+    {
+      "name": "spring.data.mongodb.min-heartbeat-frequency",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.min-heartbeat-frequency'"
+    },
+    {
+      "name": "spring.data.mongodb.server-selection-timeout",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.server-selection-timeout'"
+    },
+    {
+      "name": "spring.data.mongodb.socket-keep-alive",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.socket-keep-alive'"
+    },
+    {
+      "name": "spring.data.mongodb.socket-timeout",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.socket-timeout'"
+    },
+    {
+      "name": "spring.data.mongodb.ssl-enabled",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.ssl-enabled'"
+    },
+    {
+      "name": "spring.data.mongodb.ssl-invalid-host-name-allowed",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.ssl-invalid-host-name-allowed'"
+    },
+    {
+      "name": "spring.data.mongodb.threads-allowed-to-block-for-connection-multiplier",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.data.mongodb.threads-allowed-to-block-for-connection-multiplier'"
+    },
+    {
+      "name": "test",
+      "type": "java.lang.String",
+      "description": "A description for 'test'"
+    },
+    {
+      "name": "val.test",
+      "type": "java.lang.String",
+      "description": "A description for 'val.test'"
+    }
+  ],
+  "hints": []
+}
